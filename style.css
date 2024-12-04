@@ -1,0 +1,635 @@
+.desktop-2,
+.desktop-2 * {
+  box-sizing: border-box;
+}
+.desktop-2 {
+  background: #0c0a00;
+  height: 5912px;
+  position: relative;
+  overflow: hidden;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -36px);
+  top: 52px;
+}
+.project {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -289px);
+  top: 52px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -165px);
+  top: 52px;
+}
+.connect-me {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 139px);
+  top: 4548px;
+}
+.ui-ux-designer {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 64px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 217px);
+  top: 434px;
+}
+.sreeshmadas-a {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 115px);
+  top: 530px;
+}
+.instagram-1-2 {
+  width: 31.02px;
+  height: 35px;
+  position: absolute;
+  left: 741px;
+  top: 5733px;
+  object-fit: cover;
+}
+.collaborate-with-me-to-bring-your-vision-through-exceptional-designs {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-LightItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - 370px);
+  top: 5665px;
+  width: 848px;
+  height: 43px;
+}
+.sreeshmadas-342-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 310px);
+  top: 5736px;
+  width: 377px;
+  height: 42px;
+}
+.gmail-5968534-2 {
+  width: 30.73px;
+  height: 35px;
+  position: absolute;
+  left: 275px;
+  top: 5733px;
+  object-fit: cover;
+}
+.sreeshmadas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -155px);
+  top: 5736px;
+  width: 1052px;
+  height: 116px;
+}
+.education {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 511px);
+  top: 2010px;
+  width: 242px;
+}
+.ui-ux-designing {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 160px);
+  top: 2223px;
+  width: 319px;
+  height: 58px;
+}
+._2024 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 160px);
+  top: 2171px;
+  width: 87px;
+  height: 52px;
+}
+._2021 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 160px);
+  top: 2475px;
+  width: 76px;
+  height: 52px;
+}
+.techmindz {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 160px);
+  top: 2281px;
+  width: 1034px;
+  height: 34px;
+}
+.software-training-institute-in-kerala {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 160px);
+  top: 2315px;
+  width: 1034px;
+  height: 35px;
+}
+.ba-english {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 160px);
+  top: 2527px;
+  width: 210px;
+  height: 58px;
+}
+.gurudev-arts-science-college-mathil {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 158px);
+  top: 2585px;
+  width: 1035px;
+  height: 34px;
+}
+.kannur-university {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 160px);
+  top: 2619px;
+  width: 1035px;
+  height: 35px;
+}
+.creative-fields {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 514px);
+  top: 2889px;
+}
+.ui-ux {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 514px);
+  top: 3041px;
+  width: 1020px;
+  height: 98px;
+}
+.wireframe {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 514px);
+  top: 3119px;
+  width: 1020px;
+}
+.prototype {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 510px);
+  top: 3201px;
+  width: 1020px;
+}
+.design-thinking {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 514px);
+  top: 3275px;
+  width: 1020px;
+}
+.softwares {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - -133px);
+  top: 2889px;
+}
+.figma {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -140px);
+  top: 3041px;
+  width: 1020px;
+  height: 78px;
+}
+.adobe-illustartor {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -140px);
+  top: 3119px;
+  width: 1020px;
+}
+.xd {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -140px);
+  top: 3201px;
+  width: 1020px;
+}
+.photoshop {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -140px);
+  top: 3275px;
+  width: 1020px;
+}
+.canva {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -140px);
+  top: 3349px;
+  width: 1020px;
+}
+.projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 510px);
+  top: 3633px;
+}
+.eonline-1 {
+  width: 268.01px;
+  height: 350px;
+  position: absolute;
+  left: 120px;
+  top: 3867px;
+  object-fit: cover;
+}
+.fooodzey-1 {
+  width: 266.96px;
+  height: 350px;
+  position: absolute;
+  left: 500px;
+  top: 3867px;
+  object-fit: cover;
+}
+.cyclenow-1 {
+  width: 266.8px;
+  height: 350px;
+  position: absolute;
+  left: 870px;
+  top: 3867px;
+  object-fit: cover;
+}
+.website-redesign {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 507px);
+  top: 4245px;
+}
+
+
+
+
+
+.ux-case-study {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 101px);
+  top: 4245px;
+}
+
+
+.ui-showcase {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -286px);
+  top: 4245px;
+}
+
+
+
+.rectangle-79 {
+  background: #0c0a00;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px;
+  width: 670px;
+  height: 96px;
+  position: absolute;
+  left: calc(50% - 335px);
+  top: 4758px;
+}
+.full-name {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 284px);
+  top: 4782px;
+}
+.rectangle-80 {
+  background: #0c0a00;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px;
+  width: 670px;
+  height: 96px;
+  position: absolute;
+  left: calc(50% - 335px);
+  top: 4882px;
+}
+.email {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 284px);
+  top: 4906px;
+}
+.rectangle-81 {
+  background: #0c0a00;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px;
+  width: 670px;
+  height: 96px;
+  position: absolute;
+  left: calc(50% - 335px);
+  top: 5002px;
+}
+.phone-number {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 284px);
+  top: 5026px;
+}
+.rectangle-82 {
+  background: #0c0a00;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px;
+  width: 670px;
+  height: 294px;
+  position: absolute;
+  left: calc(50% - 335px);
+  top: 5124px;
+}
+.your-message {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 284px);
+  top: 5148px;
+}
+.connect-me2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -425px);
+  top: 52px;
+}
+.rectangle-71 {
+  background: #e46036;
+  border-radius: 12px;
+  width: 344px;
+  height: 86px;
+  position: absolute;
+  left: calc(50% - -172px);
+  top: 5492px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.submit {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 65px);
+  top: 5509px;
+}
+.rectangle-712 {
+  background: #e46036;
+  width: 935px;
+  height: 6px;
+  position: absolute;
+  left: 1303px;
+  top: 2040px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-713 {
+  background: #e46036;
+  width: 290px;
+  height: 6px;
+  position: absolute;
+  left: 1299px;
+  top: 2918px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-714 {
+  background: #e46036;
+  width: 975px;
+  height: 6px;
+  position: absolute;
+  left: 1301px;
+  top: 3660px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-72 {
+  background: #e46036;
+  width: 258px;
+  height: 6px;
+  position: absolute;
+  left: 729px;
+  top: 2918px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-83 {
+  background: #e46036;
+  width: 456px;
+  height: 6px;
+  position: absolute;
+  left: 457px;
+  top: 4575px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-84 {
+  background: #e46036;
+  width: 520px;
+  height: 6px;
+  position: absolute;
+  left: 1301px;
+  top: 4575px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-722 {
+  background: rgba(217, 217, 217, 0.3);
+  border-radius: 18px;
+  width: 1205px;
+  height: 700px;
+  position: absolute;
+  left: 27px;
+  top: 984px;
+}
+.about-me {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 117px);
+  top: 1068px;
+}
+.i-am-a-ui-ux-design-enthusiast-with-an-unwavering-passion-for-crafting-digital-magic-and-convenience-specializing-in-mobile-and-web-design-i-bring-ideas-to-life-through-the-lens-of-figma-for-me-design-is-more-than-aesthetics-it-s-about-understanding-users-and-creating-intuitive-interfaces-my-strength-lies-in-diverse-team-collaboration-where-i-seamlessly-blend-creativity-with-functionality-i-actively-contribute-to-the-ux-process-conducting-surveys-crafting-personas-mapping-user-flows-and-executing-testing-strategies {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 585px);
+  top: 1213px;
+  width: 1194px;
+}
